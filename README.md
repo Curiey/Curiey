@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Yarden</h1>
-<h3 align="center">Senior year in Information System and Software Engineer at BGU</h3>
+<h3 align="center">Senior year in Software and Information System Engineer at BGU</h3>
 
-💻 My Final Project - "WeKeyLeaks" - Developing Attack Model by Leaking Data from computer via RGB keyboard, using **Computer Vision** in a **Python** base environment.
+💻 My final project - "WeKeyLeaks" - Developing attack model by leaking data from computer via RGB keyboard, using **Computer Vision** in a **Python** base environment.
 <p align="left">
 <b>Professional Experience:</b><br>
 	<ul align="left">
@@ -29,7 +29,7 @@
 </p>
 <p>
 	<b>
-		Projects in my Git:
+		Projects:
 	</b>
 </p>
 <ul>
@@ -37,22 +37,24 @@
 		<b>
 			Information Retrieval Project:
 		</b>
-		Building Search Engine, creation of inverted index and query handling, built in Java.
+		Building search engine, creation of inverted index and query handling, built in Java.
 		<a href="https://youtu.be/_N4_TmUUFRc">
 			Video
 		</a>
+		,
 		<a href="https://github.com/Curiey/InformationRetrieval-SearchEngine">
 			Git
 		</a>
 	</li>
 	<li>
 		<b>
-			Maze Game
+			Maze Game:
 		</b>
-		: written in MVVM architecture, using Client-Server and GUI. Built in Java.
+		Written in MVVM architecture, using Client-Server and GUI. Built in Java.
 		<a href="https://youtu.be/60d5L69jm7o">
 			Video
 		</a>
+		,
 		<a href="https://github.com/Curiey/MazeGame">
 			Git
 		</a>
@@ -65,6 +67,7 @@
 		<a href="https://curiey.github.io/packman/">
 			Game
 		</a>
+		,
 		<a href="https://github.com/Curiey/packman">
 			Git
 		</a>
@@ -75,11 +78,17 @@
 		</b>
 		- backend - Node.js and Azure DB.
 		- Frontend - Vue.js, JavaScript, HTML and CSS.
+		<br>
 		<a href="https://curiey.github.io/Recipes-Front/#/">
 			Website
 		</a>
+		,
 		<a href="https://github.com/Curiey/Recipes-Front">
-			Git
+			frontend Git
+		</a>
+		,
+		<a href="https://github.com/Curiey/Recipes-Server">
+			backend Git
 		</a>
 	</li>
 </ul>
