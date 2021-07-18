@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Yarden</h1>
-<h3 align="center">Software and Information System Engineer Graduated at BGU</h3>
+<h3 align="center">Software and Information System Engineer at BGU</h3>
 
 💻 My final project - "WeKeyLeaks" - Developing attack model by leaking data from computer via RGB keyboard, using **Computer Vision** in a **Python** base environment.
 <p align="left">
